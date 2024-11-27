@@ -1,0 +1,3 @@
+this is git file 
+i am pushing it remote
+this is commit means changes are done in the file
